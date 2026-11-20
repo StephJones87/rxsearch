@@ -19,7 +19,7 @@ function App() {
 
     try {
       const response = await fetch(
-        `http://127.0.0.1:8001/search?medication=${encodeURIComponent(medication.trim())}`
+         `https://rxsearch-7vtc.onrender.com/search?medication=${encodeURIComponent(medication.trim())}`
       )
 
       if (!response.ok) {
@@ -65,7 +65,7 @@ function App() {
         {results && (
           <>
             <PipelineExplainer results={results} />
-            
+
             <section>
               <h2>How your search worked</h2>
 
