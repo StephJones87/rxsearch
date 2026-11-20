@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import PipelineExplainer from './components/PipelineExplainer'
 
 function App() {
   const [medication, setMedication] = useState('')
@@ -63,6 +64,8 @@ function App() {
 
         {results && (
           <>
+            <PipelineExplainer results={results} />
+            
             <section>
               <h2>How your search worked</h2>
 
