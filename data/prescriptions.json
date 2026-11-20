@@ -1,0 +1,6002 @@
+[
+  {
+    "prescription_id": "RX0001",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0002",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0003",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0004",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0005",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0006",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0007",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0008",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0009",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0010",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0011",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0012",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0013",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0014",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0015",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0016",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0017",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0018",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0019",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0020",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0021",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0022",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0023",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0024",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0025",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0026",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0027",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0028",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0029",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0030",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0031",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0032",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0033",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0034",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0035",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0036",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0037",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0038",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0039",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0040",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0041",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0042",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0043",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0044",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0045",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0046",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0047",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0048",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0049",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0050",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0051",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0052",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0053",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0054",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0055",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0056",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0057",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0058",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0059",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0060",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0061",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0062",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0063",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0064",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0065",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0066",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0067",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0068",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0069",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0070",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0071",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0072",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0073",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0074",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0075",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0076",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0077",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0078",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0079",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0080",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0081",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0082",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0083",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0084",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0085",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0086",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0087",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0088",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0089",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0090",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0091",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0092",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0093",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0094",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0095",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0096",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0097",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0098",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0099",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0100",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0101",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0102",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0103",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0104",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0105",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0106",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0107",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0108",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0109",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0110",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0111",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0112",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0113",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0114",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0115",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0116",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0117",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0118",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0119",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0120",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0121",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0122",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0123",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0124",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0125",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0126",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0127",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0128",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0129",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0130",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0131",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0132",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0133",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0134",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0135",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0136",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0137",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0138",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0139",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0140",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0141",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0142",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0143",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0144",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0145",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0146",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0147",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0148",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0149",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0150",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0151",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0152",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0153",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0154",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0155",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0156",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0157",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0158",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0159",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0160",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0161",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0162",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0163",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0164",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0165",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0166",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0167",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0168",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0169",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0170",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0171",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0172",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0173",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0174",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0175",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0176",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0177",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0178",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0179",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0180",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0181",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0182",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0183",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0184",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0185",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0186",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0187",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0188",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0189",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0190",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0191",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0192",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0193",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0194",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0195",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0196",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0197",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0198",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0199",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0200",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0201",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0202",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0203",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0204",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0205",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0206",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0207",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0208",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0209",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0210",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0211",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0212",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0213",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0214",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0215",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0216",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0217",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0218",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0219",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0220",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0221",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0222",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0223",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0224",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0225",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0226",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0227",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0228",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0229",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0230",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0231",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0232",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0233",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0234",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0235",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0236",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0237",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0238",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0239",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0240",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0241",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0242",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0243",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0244",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0245",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0246",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0247",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0248",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0249",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0250",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0251",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0252",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0253",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0254",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0255",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0256",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0257",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0258",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0259",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0260",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0261",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0262",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0263",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0264",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0265",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0266",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0267",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0268",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0269",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0270",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0271",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0272",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0273",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0274",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0275",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0276",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0277",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0278",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0279",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0280",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0281",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0282",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0283",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0284",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0285",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0286",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0287",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0288",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0289",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0290",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0291",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0292",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0293",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0294",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0295",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0296",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0297",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0298",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0299",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0300",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0301",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0302",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0303",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0304",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0305",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0306",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0307",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0308",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0309",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0310",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0311",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0312",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0313",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0314",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0315",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0316",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0317",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0318",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0319",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0320",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0321",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0322",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0323",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0324",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0325",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0326",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0327",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0328",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0329",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0330",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0331",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0332",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0333",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0334",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0335",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0336",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0337",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0338",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0339",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0340",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0341",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0342",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0343",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0344",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0345",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0346",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0347",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0348",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0349",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0350",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0351",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0352",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0353",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0354",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0355",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0356",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0357",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0358",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0359",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0360",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0361",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0362",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0363",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0364",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0365",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0366",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0367",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0368",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0369",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0370",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0371",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0372",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0373",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0374",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0375",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0376",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0377",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0378",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0379",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0380",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0381",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0382",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0383",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0384",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0385",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0386",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0387",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0388",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0389",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0390",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0391",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0392",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0393",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0394",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0395",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0396",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0397",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0398",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0399",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0400",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0401",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0402",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0403",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0404",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0405",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0406",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0407",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0408",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0409",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0410",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0411",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0412",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0413",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0414",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0415",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0416",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0417",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0418",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0419",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0420",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0421",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0422",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0423",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0424",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0425",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0426",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0427",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0428",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0429",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0430",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0431",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0432",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0433",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0434",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0435",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0436",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0437",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0438",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0439",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0440",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0441",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0442",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0443",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0444",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0445",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0446",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0447",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0448",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0449",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0450",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0451",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0452",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0453",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0454",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0455",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0456",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0457",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0458",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0459",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0460",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0461",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0462",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0463",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0464",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0465",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0466",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0467",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0468",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0469",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0470",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0471",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0472",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0473",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0474",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0475",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0476",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0477",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0478",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0479",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0480",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0481",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0482",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0483",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0484",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0485",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0486",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0487",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0488",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0489",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0490",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0491",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0492",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0493",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0494",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0495",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0496",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0497",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0498",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0499",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0500",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0501",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0502",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0503",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0504",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0505",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0506",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0507",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0508",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0509",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0510",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0511",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0512",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0513",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0514",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0515",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0516",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0517",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0518",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0519",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0520",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0521",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0522",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0523",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0524",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0525",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0526",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0527",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0528",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0529",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0530",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0531",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0532",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0533",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0534",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0535",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0536",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0537",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0538",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0539",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0540",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0541",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0542",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0543",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0544",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0545",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0546",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0547",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0548",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0549",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0550",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0551",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0552",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0553",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0554",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0555",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0556",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0557",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0558",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0559",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0560",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0561",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0562",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0563",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0564",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0565",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0566",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0567",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0568",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0569",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0570",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0571",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0572",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0573",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0574",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0575",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0576",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0577",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0578",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0579",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0580",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0581",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0582",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0583",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0584",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0585",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0586",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0587",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0588",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0589",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0590",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0591",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0592",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0593",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0594",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0595",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0596",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0597",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0598",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0599",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0600",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0601",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0602",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0603",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0604",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0605",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0606",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0607",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0608",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0609",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0610",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0611",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0612",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0613",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0614",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0615",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0616",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0617",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0618",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0619",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0620",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0621",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0622",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0623",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0624",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0625",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0626",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0627",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0628",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0629",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0630",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0631",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0632",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0633",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0634",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0635",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0636",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0637",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0638",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0639",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0640",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0641",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0642",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0643",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0644",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0645",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0646",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0647",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0648",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0649",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0650",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0651",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0652",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0653",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0654",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0655",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0656",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0657",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0658",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0659",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0660",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0661",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0662",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0663",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0664",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0665",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0666",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0667",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0668",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0669",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0670",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0671",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0672",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0673",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0674",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0675",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0676",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0677",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0678",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0679",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0680",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0681",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0682",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0683",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0684",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0685",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0686",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0687",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0688",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0689",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0690",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0691",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0692",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0693",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0694",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0695",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0696",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0697",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0698",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0699",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0700",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0701",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0702",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0703",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0704",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0705",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0706",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0707",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0708",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0709",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0710",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0711",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0712",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0713",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0714",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0715",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0716",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0717",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0718",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0719",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0720",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0721",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0722",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0723",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0724",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0725",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0726",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0727",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0728",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0729",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0730",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0731",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0732",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0733",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0734",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0735",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0736",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0737",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0738",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0739",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0740",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0741",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0742",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0743",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0744",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0745",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0746",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0747",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0748",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0749",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0750",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0751",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0752",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0753",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0754",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0755",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0756",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0757",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0758",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0759",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0760",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0761",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0762",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0763",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0764",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0765",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0766",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0767",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0768",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0769",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0770",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0771",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0772",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0773",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0774",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0775",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0776",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0777",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0778",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0779",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0780",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0781",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0782",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0783",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0784",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0785",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0786",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0787",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0788",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0789",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0790",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0791",
+    "prescription_text": "Humira prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0792",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0793",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0794",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0795",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0796",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0797",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0798",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0799",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0800",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0801",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0802",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0803",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0804",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0805",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0806",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0807",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0808",
+    "prescription_text": "secukinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0809",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0810",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0811",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0812",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0813",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0814",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0815",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0816",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0817",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0818",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0819",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0820",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0821",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0822",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0823",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0824",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0825",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0826",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0827",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0828",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0829",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0830",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0831",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0832",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0833",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0834",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0835",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0836",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0837",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0838",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0839",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0840",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0841",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0842",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0843",
+    "prescription_text": "Repeat prescription for infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0844",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0845",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0846",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0847",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0848",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0849",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0850",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0851",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0852",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0853",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0854",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0855",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0856",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0857",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0858",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0859",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0860",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0861",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0862",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0863",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0864",
+    "prescription_text": "Repeat prescription for secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0865",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0866",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0867",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0868",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0869",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0870",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0871",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0872",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0873",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0874",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0875",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0876",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0877",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0878",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0879",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0880",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0881",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0882",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0883",
+    "prescription_text": "Cosentyx prescribed for ongoing treatment.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0884",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0885",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0886",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0887",
+    "prescription_text": "Stelara prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0888",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0889",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0890",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0891",
+    "prescription_text": "Repeat prescription for Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0892",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0893",
+    "prescription_text": "vedolizumab prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0894",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0895",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0896",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0897",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0898",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0899",
+    "prescription_text": "Entyvio prescribed for ongoing treatment.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0900",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0901",
+    "prescription_text": "Continue treatment with Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0902",
+    "prescription_text": "Repeat prescription for Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0903",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0904",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0905",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0906",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0907",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0908",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0909",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0910",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0911",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0912",
+    "prescription_text": "Medication order: ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0913",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0914",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0915",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0916",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0917",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0918",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0919",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0920",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0921",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0922",
+    "prescription_text": "Medication order: adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0923",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0924",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0925",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0926",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0927",
+    "prescription_text": "ustekinumab prescribed for ongoing treatment.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0928",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0929",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0930",
+    "prescription_text": "Medication order: infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0931",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0932",
+    "prescription_text": "Patient commenced on Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0933",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0934",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0935",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0936",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0937",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0938",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0939",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0940",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0941",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0942",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0943",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0944",
+    "prescription_text": "Continue treatment with secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0945",
+    "prescription_text": "Continue treatment with Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0946",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0947",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0948",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0949",
+    "prescription_text": "Continue treatment with vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0950",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0951",
+    "prescription_text": "Repeat prescription for Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0952",
+    "prescription_text": "Patient commenced on Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0953",
+    "prescription_text": "Patient commenced on adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0954",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0955",
+    "prescription_text": "Medication order: secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0956",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0957",
+    "prescription_text": "Continue treatment with ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0958",
+    "prescription_text": "Medication order: vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0959",
+    "prescription_text": "Continue treatment with infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0960",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0961",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0962",
+    "prescription_text": "Medication order: Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0963",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0964",
+    "prescription_text": "Repeat prescription for vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0965",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0966",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0967",
+    "prescription_text": "Medication order: Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0968",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0969",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0970",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0971",
+    "prescription_text": "Repeat prescription for Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0972",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0973",
+    "prescription_text": "Patient commenced on ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0974",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0975",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0976",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0977",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0978",
+    "prescription_text": "Continue treatment with Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0979",
+    "prescription_text": "Remicade prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0980",
+    "prescription_text": "Medication order: Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0981",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0982",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0983",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0984",
+    "prescription_text": "Patient commenced on vedolizumab.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0985",
+    "prescription_text": "Patient commenced on Remicade.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0986",
+    "prescription_text": "Continue treatment with Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0987",
+    "prescription_text": "Repeat prescription for adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0988",
+    "prescription_text": "Medication order: Humira.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0989",
+    "prescription_text": "Patient commenced on secukinumab.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0990",
+    "prescription_text": "Patient commenced on Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0991",
+    "prescription_text": "Repeat prescription for ustekinumab.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  },
+  {
+    "prescription_id": "RX0992",
+    "prescription_text": "Patient commenced on infliximab.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0993",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0994",
+    "prescription_text": "adalimumab prescribed for ongoing treatment.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX0995",
+    "prescription_text": "Continue treatment with Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0996",
+    "prescription_text": "Medication order: Cosentyx.",
+    "expected_ingredient": "secukinumab",
+    "expected_brand": "Cosentyx"
+  },
+  {
+    "prescription_id": "RX0997",
+    "prescription_text": "Patient commenced on Entyvio.",
+    "expected_ingredient": "vedolizumab",
+    "expected_brand": "Entyvio"
+  },
+  {
+    "prescription_id": "RX0998",
+    "prescription_text": "infliximab prescribed for ongoing treatment.",
+    "expected_ingredient": "infliximab",
+    "expected_brand": "Remicade"
+  },
+  {
+    "prescription_id": "RX0999",
+    "prescription_text": "Continue treatment with adalimumab.",
+    "expected_ingredient": "adalimumab",
+    "expected_brand": "Humira"
+  },
+  {
+    "prescription_id": "RX1000",
+    "prescription_text": "Repeat prescription for Stelara.",
+    "expected_ingredient": "ustekinumab",
+    "expected_brand": "Stelara"
+  }
+]
