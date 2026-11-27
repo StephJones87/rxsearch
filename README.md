@@ -1,3 +1,3 @@
 ## System Architecture
 
-![RxSearch System Architecture](images/rxsearch-architecture.png)
+![RxSearch System Architecture](images/infographic.png)
